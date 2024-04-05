@@ -123,10 +123,39 @@
   display: flex;
   align-items: center;
   text-align: center;
-  height: 400px;
+  height: 500px;
 
 }
 .heading h1 {
   font-size: 30px;
+}
+}
+
+@media (max-width: 375px) {
+  .button-52 {
+    padding: 13px 50px 13px;
+    font-size: 12px;
+  }
+  .card {
+    background-color: whitesmoke;
+    width: 60%;
+    height: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 32px;
+    border-radius: 20px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+.heading {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  height: 400px;
+
+}
+.heading h1 {
+  font-size: 24px;
 }
 }
