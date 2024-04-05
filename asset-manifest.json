@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/may-advice/static/css/main.78b5fb85.css",
+    "main.js": "/may-advice/static/js/main.45937920.js",
+    "static/media/mount.png": "/may-advice/static/media/mount.2ba2e26fb100642008d3.png",
+    "index.html": "/may-advice/index.html",
+    "main.78b5fb85.css.map": "/may-advice/static/css/main.78b5fb85.css.map",
+    "main.45937920.js.map": "/may-advice/static/js/main.45937920.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78b5fb85.css",
+    "static/js/main.45937920.js"
+  ]
+}
